@@ -1,0 +1,9 @@
+package ids
+
+const (
+	SESSION_EXPIRED = "ERR001"
+	INVALID_SESSION = "ERR002"
+	AUTH_ERROR      = "ERR003"
+	WENT_WRONG      = "ERR004"
+	SUCCESS         = "SUC005"
+)
